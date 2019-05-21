@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lllkkkk">
+    <output-path>$PROJECT_DIR$/classes/artifacts/lllkkkk</output-path>
+    <root id="archive" name="lllkkkk.jar">
+      <element id="directory" name="service">
+        <element id="file-copy" path="$PROJECT_DIR$/dqlsas/target/classes/service/RmiTest.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/dqlsas/target/classes/service/ITestService.class" />
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/dqlsas/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

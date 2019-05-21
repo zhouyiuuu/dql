@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dql.iml" filepath="$PROJECT_DIR$/dql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dqlh5/dqlh5.iml" filepath="$PROJECT_DIR$/dqlh5/dqlh5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dqlopen/dqlopen.iml" filepath="$PROJECT_DIR$/dqlopen/dqlopen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dqlsas/dqlsas.iml" filepath="$PROJECT_DIR$/dqlsas/dqlsas.iml" />
+    </modules>
+  </component>
+</project>

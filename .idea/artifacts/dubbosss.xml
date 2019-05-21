@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dubbosss">
+    <output-path>$PROJECT_DIR$/classes/artifacts/dubbosss</output-path>
+    <root id="archive" name="dubbosss.jar">
+      <element id="directory" name="dubboservice">
+        <element id="file-copy" path="$PROJECT_DIR$/dqlsas/target/classes/service/ITestService.class" />
+      </element>
+    </root>
+  </artifact>
+</component>

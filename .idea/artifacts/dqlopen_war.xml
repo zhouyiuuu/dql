@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dqlopen:war">
+    <output-path>$PROJECT_DIR$/dqlopen/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dqlopen</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dqlopen-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dqlopen:war exploded" />
+    </root>
+  </artifact>
+</component>

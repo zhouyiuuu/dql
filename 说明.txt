@@ -1,0 +1,19 @@
+SAS
+
+    1，编写一个接口RMI发布
+
+    2，把指定的接口打成jar包
+
+        a）jar 命令把指定的java打成jar
+        jar cvf 名字.jar /路径
+        b）使用idea把指定的java打成jar
+
+open
+
+    1，编写一个RMI的调用方代码（Junit | main）
+
+    2，把jar 发布到maven仓库mvn instal1
+
+H5
+
+    结合加密 Junit | main 交互 open
